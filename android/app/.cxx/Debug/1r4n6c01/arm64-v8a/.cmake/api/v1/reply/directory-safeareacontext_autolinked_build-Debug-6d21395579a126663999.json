@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "safeareacontext_autolinked_build",
+		"source" : "C:/1himan/Projects/Gym_Management_App/GymManagementApp/node_modules/react-native-safe-area-context/android/src/main/jni"
+	}
+}

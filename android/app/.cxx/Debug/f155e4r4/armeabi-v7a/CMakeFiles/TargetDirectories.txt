@@ -1,0 +1,3 @@
+C:/1himan/My Projects/Gym_Management_App/GymManagementApp/android/app/.cxx/Debug/f155e4r4/armeabi-v7a/CMakeFiles/appmodules.dir
+C:/1himan/My Projects/Gym_Management_App/GymManagementApp/android/app/.cxx/Debug/f155e4r4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/1himan/My Projects/Gym_Management_App/GymManagementApp/android/app/.cxx/Debug/f155e4r4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

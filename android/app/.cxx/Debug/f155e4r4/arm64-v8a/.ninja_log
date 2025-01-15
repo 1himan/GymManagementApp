@@ -1,0 +1,5 @@
+# ninja log v5
+6	154	0	C:/1himan/My Projects/Gym_Management_App/GymManagementApp/android/app/.cxx/Debug/f155e4r4/arm64-v8a/CMakeFiles/cmake.verify_globs	430f21536edf49a2
+5	23779	7556971897913072	CMakeFiles/appmodules.dir/4795443c395ae99dc9e7705257e94ddb/GymManagementApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f026a13b4253d72a
+0	24616	7556971906208438	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2a2173323d8573c7
+24616	24770	7556971907869358	C:/1himan/My Projects/Gym_Management_App/GymManagementApp/android/app/build/intermediates/cxx/Debug/f155e4r4/obj/arm64-v8a/libappmodules.so	e3a53c7ee869d484
